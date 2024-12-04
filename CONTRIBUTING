@@ -1,0 +1,16 @@
+# Contributing to the Ping Pong Method Project
+
+Thank you for considering contributing to the Ping Pong Method project! Your input is valuable in improving and refining this framework.
+
+## How to Contribute
+
+### **1. Fork the Repository**
+
+- Click the **"Fork"** button at the top-right corner of the repository page to create a copy in your GitHub account.
+
+### **2. Clone the Repository**
+
+- Clone the forked repository to your local machine:
+
+  ```bash
+  git clone https://github.com/matkowsky/PingPongMethod.git
