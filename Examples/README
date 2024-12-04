@@ -1,0 +1,35 @@
+# Examples Directory
+
+This directory contains real-world scenarios and applications demonstrating the Ping Pong Method for AI-assisted decision-making.
+
+## Available Examples
+
+- **Example 1: Implementing a Customer Feedback System**
+  - **Description:** Demonstrates how to apply the Ping Pong Method to decide on implementing a new customer feedback system on a website.
+  - **File:** [example1_customer_feedback.md](example1_customer_feedback.md)
+
+- **Example 2: Evaluating a Marketing Strategy**
+  - **Description:** Shows the application of the Ping Pong Method in choosing between different marketing approaches.
+  - **File:** [example2_marketing_strategy.md](example2_marketing_strategy.md)
+
+## How to Use These Examples
+
+1. **Review the Scenario:**
+   - Read through the problem statement to understand the context.
+
+2. **Follow the Method Steps:**
+   - Each example applies the Ping Pong Method step-by-step. Follow along to see how the method is utilized in decision-making.
+
+3. **Apply to Your Context:**
+   - Use these examples as a guide to implement the Ping Pong Method in your own projects or scenarios.
+
+## Contribution Guidelines
+
+- **Adding New Examples:**
+  - Ensure your example follows the structure of existing examples.
+  - Provide a clear problem statement and detailed application of the Ping Pong Method.
+
+- **Improving Existing Examples:**
+  - Enhance clarity, fix any errors, or expand on the analysis where necessary.
+
+For detailed contribution instructions, please refer to the [CONTRIBUTING.md](https://github.com/matkowsky/PingPongMethod/blob/main/CONTRIBUTING.md) file.
